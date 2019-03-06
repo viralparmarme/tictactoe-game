@@ -9,11 +9,6 @@ https://repl.it/@virustark24/tictactoe
 ```
 
 ___
-## How does it look?
-
-![https://viralparmar.ml](https://i.imgur.com/1Vupzar.png)
-
-___
 ## A quick note:
 
 * This game is my first Python project on GitHub and on the internet for that matter.  
